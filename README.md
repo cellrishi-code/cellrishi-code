@@ -432,7 +432,9 @@ $ git push origin feat/amazing-feature
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░  SNAKE CONTRIBUTION GRAPH  ░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <div align="center">
 
 ## `> watch -n1 git log --graph`
