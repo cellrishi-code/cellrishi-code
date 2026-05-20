@@ -301,51 +301,10 @@
 <!--  SETUP: Add .github/workflows/snake.yml (see below) -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
+
+
 <div align="center">
-
-## `〈 Snake Eating My Contributions 〉`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/cellrishi-code/cellrishi-code/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/cellrishi-code/cellrishi-code/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake contribution animation"
-    src="https://raw.githubusercontent.com/cellrishi-code/cellrishi-code/output/github-contribution-grid-snake-dark.svg"
-    width="100%"/>
-</picture>
-
-<!--
-  ┌─ SNAKE SETUP GUIDE ──────────────────────────────────────────────────────┐
-  │  1. Create repo:  cellrishi-code/cellrishi-code  (same as username)      │
-  │  2. Create file:  .github/workflows/snake.yml                            │
-  │  3. Paste this workflow:                                                  │
-  │                                                                           │
-  │  name: Generate Snake                                                     │
-  │  on:                                                                      │
-  │    schedule: [{cron: "0 0 * * *"}]                                       │
-  │    workflow_dispatch:                                                     │
-  │  jobs:                                                                    │
-  │    generate:                                                              │
-  │      runs-on: ubuntu-latest                                              │
-  │      steps:                                                               │
-  │        - uses: Platane/snk/svg-only@v3                                   │
-  │          with:                                                            │
-  │            github_user_name: cellrishi-code                              │
-  │            outputs: |                                                     │
-  │              dist/github-contribution-grid-snake.svg                     │
-  │              dist/github-contribution-grid-snake-dark.svg?palette=github_dark │
-  │        - uses: crazy-max/ghaction-github-pages@v3                        │
-  │          with:                                                            │
-  │            target_branch: output                                         │
-  │            build_dir: dist                                               │
-  │          env:                                                             │
-  │            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                     │
-  └───────────────────────────────────────────────────────────────────────────┘
--->
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
