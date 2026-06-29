@@ -76,7 +76,7 @@
   │  ⚡  Founder of CloudAxis Labs — cloud, DevOps & web solutions  │
   │  🤖  Founder of Lumex AI — AI agentic systems & consultancy     │
   │  🔐  Researching Post-Quantum Cryptography & Blockchain         │
-  │  🏆  Targeting GATE DA AIR-1 (Data Science & AI)               │
+  │  🏆  Targeting (Data Science & AI)               │
   │  🌐  Originally from Birgunj, Nepal                             │
   ╰─────────────────────────────────────────────────────────────────╯
 ```
